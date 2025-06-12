@@ -19,7 +19,7 @@ A fun and interactive number guessing game built with JavaScript, HTML, and CSS.
 # Running the game
 >> Clone the repo or download the ZIP file.
 >> Open the folder in VS Code or any similar tools.
->> Right click "index.html" -> Open with live server or open in any browser.
+>> Right click `index.html` -> Open with live server or open in any browser.
 >> Start guessing.
 
 
